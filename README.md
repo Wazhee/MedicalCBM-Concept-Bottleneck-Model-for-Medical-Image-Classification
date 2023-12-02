@@ -1,5 +1,7 @@
 # MedicalCBM: Concept-Bottleneck-Model-for-Medical-Image-Classification
 The goal of this project is to leverage works from Label-free Concept Bottleneck Models, Oikarinen et al, 2023 &amp; Language in a Bottle, Yang et al, 2023 
+![Label-free](https://github.com/Wazhee/MedicalCBM-Concept-Bottleneck-Model-for-Medical-Image-Classification/assets/34732790/f3c129f6-4601-4a1a-8372-0eabeac7c944)
+![Language in a Bottle](https://github.com/Wazhee/MedicalCBM-Concept-Bottleneck-Model-for-Medical-Image-Classification/assets/34732790/0958596c-b805-46dc-8202-bafaf08c4383)
 
 
 ## Cite this work
