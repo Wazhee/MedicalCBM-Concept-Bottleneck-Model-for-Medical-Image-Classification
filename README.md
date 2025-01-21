@@ -6,7 +6,7 @@ The goal of this project is to leverage works from Label-free Concept Bottleneck
 
 ## Here are some preliminary results
 ![initial weights with priors](https://github.com/user-attachments/assets/bb809238-56b6-4b4f-a9d3-19d4b3fc4c17)
-![final_weights_rng](https://github.com/user-attachments/assets/2284f24d-ca25-461b-ba54-d0feae35775c)
+![final_weights_rng_5concepts](https://github.com/user-attachments/assets/0b7a73db-3a09-4e6d-8fcc-204c63f782ed)
 ![difference_rng_weights](https://github.com/user-attachments/assets/f9423220-6368-49c0-bc1b-06b5d61e6b84)
 
 
