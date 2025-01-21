@@ -4,6 +4,13 @@ The goal of this project is to leverage works from Label-free Concept Bottleneck
 ![Language in a Bottle](https://github.com/Wazhee/MedicalCBM-Concept-Bottleneck-Model-for-Medical-Image-Classification/assets/34732790/0958596c-b805-46dc-8202-bafaf08c4383)
 
 
+## Here are some preliminary results
+![initial weights with priors](https://github.com/user-attachments/assets/bb809238-56b6-4b4f-a9d3-19d4b3fc4c17)
+![final_weights_rng](https://github.com/user-attachments/assets/2284f24d-ca25-461b-ba54-d0feae35775c)
+![difference_rng_weights](https://github.com/user-attachments/assets/f9423220-6368-49c0-bc1b-06b5d61e6b84)
+
+
+
 ## Cite this work
 T. Oikarinen, S. Das, L. Nguyen and T.-W. Weng, [*Label-free Concept Bottleneck Models*](https://openreview.net/pdf?id=FlCg47MNvBA), ICLR 2023.
 
